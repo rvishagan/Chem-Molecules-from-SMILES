@@ -1,5 +1,6 @@
 # Chem-Molecules-from-SMILES
-Advanced DSA Algo - Final Project - 
+
+## Advanced DSA Algo - Final Project 
 
 A smiles string is a string that can represent a molecule. For example, c1ccccc1 corresponds to benzene (6 carbon atoms in a ring connected with aromatic bonds) and CC(=O)O corresponds to Acetic acid. I will see what useful graph algorithms pop up along this implementation and how they relate to either the chemistry or included in the implementation of this smiles parser. 
 
